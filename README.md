@@ -14,8 +14,9 @@ Here are some sentences to introduce me:
 - 📫 How to reach me:             ... bonjenny@naver.com(Faster!💨) or bonjenny1@gmail.com
 
 \
-![Jihee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonjenny&theme=buefy&show_icons=true)
-![Jihee's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonjenny&theme=buefy&layout=compact) 
+![Jihee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonjenny&theme=buefy&show_icons=true) \
+![Jihee's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonjenny&theme=buefy&layout=compact)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bonjenny)](https://solved.ac/bonjenny)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2020-1JS)](https://github.com/bonjenny/2020-1JS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parkjg20&repo=movieIntroduce)](https://github.com/parkjg20/movieIntroduce/) \
@@ -24,7 +25,6 @@ Here are some sentences to introduce me:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2022-1CodingTest)](https://github.com/bonjenny/2022-1CodingTest)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2022-1React.js)](https://github.com/bonjenny/2022-1React.js)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bonjenny)](https://solved.ac/bonjenny)
 
 ### Teck stack I'm working on
 ![HTML5](https://img.shields.io/badge/-HTML5-d13a11?style=for-the-badge&logo=html5&logoColor=ffffff)
