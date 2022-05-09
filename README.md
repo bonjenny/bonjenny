@@ -12,9 +12,10 @@ Here are some sentences to introduce me:
 - 📫 How to reach me:             ... bonjenny@naver.com(Faster!💨) or bonjenny1@gmail.com
 
 ### Teck stack I'm working on
-![HTML5](https://img.shields.io/badge/-HTML5-f05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-d13a11?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007acc?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f7df1c?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23f7df1c&color=%23ffce5a)
+![Vue](https://img.shields.io/badge/-vue-3fba79?style=for-the-badge&logo=vue.js&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-59d8ff?style=for-the-badge&logo=react&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
@@ -32,3 +33,7 @@ Here are some sentences to introduce me:
 
 This is what I am studying hard😂 \
 🤍https://www.acmicpc.net/user/bonjenny
+
+### Do you want to know my profile?
+
+https://programmers.co.kr/pr/bonjenny1_4385
