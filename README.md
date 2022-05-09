@@ -16,13 +16,13 @@ Here are some sentences to introduce me:
 ![CSS3](https://img.shields.io/badge/-CSS3-007acc?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23f7df1c?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23f7df1c&color=%23ffce5a)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-3fba79?style=for-the-badge&logo=vue.js&logoColor=ffffff)
-![React.js](https://img.shields.io/badge/-React.js-59d8ff?style=for-the-badge&logo=react&logoColor=000000)
-![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![React.js](https://img.shields.io/badge/-React.js-59d8ff?style=for-the-badge&logo=react&logoColor=000000) \
 ![Java](https://img.shields.io/badge/-Java-b30000?style=for-the-badge&logo=java&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-21649c?style=for-the-badge&logo=python&logoColor=ffdb12)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=ffffff)
 
 ### How to reach my Blog
 
