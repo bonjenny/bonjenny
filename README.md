@@ -28,20 +28,7 @@ Here are some sentences to introduce me:
 🎈OIDC: https://pitch-dosa-b53.notion.site/4-52e45018e9884148a30dc1bba7e65b59 \
 🧨So what's an OIDC: https://www.oidc.co.kr/home
 
-<!--
+### Coding Test with Python 3
 
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-    <a href="https://www.notion.so/mokhs/aedf9020b5274a4eb57ff653528b4574" target="_blank"><img src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=Notion&logoColor=white"/></a>
-    <a href="https://rnokhs.tistory.com/"  target="_blank"><img src="https://img.shields.io/badge/Blog-FDEE21?style=for-the-badge&logo=Apache&logoColor=black"/></a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokhs00&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhs00&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
--->
+This is what I am studying hard😂
+🤍https://www.acmicpc.net/user/bonjenny
