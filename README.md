@@ -30,5 +30,5 @@ Here are some sentences to introduce me:
 
 ### Coding Test with Python 3
 
-This is what I am studying hard😂
+This is what I am studying hard😂 \
 🤍https://www.acmicpc.net/user/bonjenny
