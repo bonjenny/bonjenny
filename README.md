@@ -2,7 +2,7 @@
 
 # Hi there! Nice to meet ya 👋
 
-My name is **Jihee Eom** and I am a college student who dreams of being a ✨ _front-end developer_ ✨
+My name is **Jihee Eom** and I am a college student who dreams of being a ✨ _front-end developer_ ✨ \
 Here are some sentences to introduce me:
 
 - 🔭 I’m currently studying at    ... Dongyang Mirae University🏫
@@ -14,17 +14,18 @@ Here are some sentences to introduce me:
 - 📫 How to reach me:             ... bonjenny@naver.com(Faster!💨) or bonjenny1@gmail.com
 
 \
-![Jihee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonjenny&theme=buefy&show_icons=true) \
-![Jihee's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonjenny&theme=buefy&layout=compact)
+<!-- ![Jihee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonjenny&theme=buefy&show_icons=true) -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bonjenny)](https://solved.ac/bonjenny)
+![Jihee's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonjenny&theme=buefy&layout=compact)
 
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2020-1JS)](https://github.com/bonjenny/2020-1JS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parkjg20&repo=movieIntroduce)](https://github.com/parkjg20/movieIntroduce/) \
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2021-2JSP)](https://github.com/bonjenny/2021-2JSP)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHELF-ER&repo=front-end)](https://github.com/SHELF-ER/front-end) \
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2022-1CodingTest)](https://github.com/bonjenny/2022-1CodingTest)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2022-1React.js)](https://github.com/bonjenny/2022-1React.js)
-
+-->
 
 ### Teck stack I'm working on
 ![HTML5](https://img.shields.io/badge/-HTML5-d13a11?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -38,7 +39,6 @@ Here are some sentences to introduce me:
 ![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=ffffff)
-
 ### How to reach my Blog
 
 - 😎 If you want to know my profile: https://programmers.co.kr/pr/bonjenny1_4385
