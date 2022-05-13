@@ -43,6 +43,7 @@ Here are some sentences to introduce me:
 - 😎 If you want to know my profile: https://programmers.co.kr/pr/bonjenny1_4385
 - 💙 React.js TIL: https://walnut-flyaway-f2b.notion.site/394fa67983cd4900bafbbf3edca35324?v=c46fdcfc26f7403cae358a74aa694520
 - 💜 JavaScript TIL: https://walnut-flyaway-f2b.notion.site/6dbb574c6ee5494db1b65b628e8238f8?v=dd898ad18c024c9badf5551ad218c529
+- ♐ Github Commands: https://walnut-flyaway-f2b.notion.site/Github-Commands-e533b12c728a4719938718ad714cd09f
 - 🎈 OIDC: https://pitch-dosa-b53.notion.site/4-52e45018e9884148a30dc1bba7e65b59
 - 🧨 So what's an OIDC: https://www.oidc.co.kr/home
 
