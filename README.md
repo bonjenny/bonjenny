@@ -38,6 +38,7 @@ Here are some sentences to introduce me:
 ![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=ffffff)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=ffffff)
+
 ### How to reach my Blog
 
 - 😎 If you want to know my profile: https://programmers.co.kr/pr/bonjenny1_4385
@@ -49,5 +50,4 @@ Here are some sentences to introduce me:
 
 ### Coding Test with Python 3
 
-- This is what I am studying hard😂
 - 🤍 https://www.acmicpc.net/user/bonjenny
