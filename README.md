@@ -50,7 +50,3 @@ Here are some sentences to introduce me:
 
 - 🎈 OIDC: https://pitch-dosa-b53.notion.site/4-52e45018e9884148a30dc1bba7e65b59
 - 🧨 So what's an OIDC: https://www.oidc.co.kr/home
-
-### Coding Test with Python 3
-
-- 🤍 https://www.acmicpc.net/user/bonjenny
