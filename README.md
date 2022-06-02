@@ -35,9 +35,9 @@ Here are some sentences to introduce me:
 ![Java](https://img.shields.io/badge/-Java-b30000?style=for-the-badge&logo=java&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-21649c?style=for-the-badge&logo=python&logoColor=ffdb12)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=ffffff)
-<!-- ![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=ffffff) -->
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=ffffff)
+<!-- ![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=ffffff) -->
 
 ### How to reach my Blog
 
