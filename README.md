@@ -6,7 +6,7 @@ My name is **Jihee Eom** and I am a college student who dreams of being a ✨ _f
 Here are some sentences to introduce me:
 
 - 🔭 I’m currently studying at    ... Dongyang Mirae University🏫
-- 🌱 I’m currently learning       ... React.js, JavaScript, and TypeScript ... etc💦
+- 🌱 I’m currently learning       ... React.js, JavaScript, and Python ... etc💦
 - 👯 I’m participating in         ... My graduation work, SHELF-ER📕
 - 🤔 I’m looking for help with    ... React.js💙
 - 💬 Ask me about                 ... All but Development knowledge😥
@@ -43,6 +43,7 @@ Here are some sentences to introduce me:
 
 - 😎 If you want to know my profile: https://programmers.co.kr/pr/bonjenny1_4385
 - 💙 React.js TIL: https://walnut-flyaway-f2b.notion.site/394fa67983cd4900bafbbf3edca35324?v=c46fdcfc26f7403cae358a74aa694520
+- 💚 React.js with Spring Boot: https://www.notion.so/aeb483fa9c26452a84ca5e180d656466?v=35c221656a35480baea8cb0a0d06c5e3
 - 💜 JavaScript TIL: https://walnut-flyaway-f2b.notion.site/6dbb574c6ee5494db1b65b628e8238f8?v=dd898ad18c024c9badf5551ad218c529
 - ♐ Github Commands: https://walnut-flyaway-f2b.notion.site/Github-Commands-e533b12c728a4719938718ad714cd09f
 
