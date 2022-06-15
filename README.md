@@ -26,7 +26,7 @@ Here are some sentences to introduce me:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2022-1React.js)](https://github.com/bonjenny/2022-1React.js)
 -->
 
-### Teck stack I'm working on
+### Teck stack I'm working on (Some icons are connected with other pages)
 ![HTML5](https://img.shields.io/badge/-HTML5-d13a11?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007acc?style=for-the-badge&logo=css3)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23f7df1c?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23f7df1c&color=%23ffce5a)](https://github.com/bonjenny/2020-1JS)
