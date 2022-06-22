@@ -7,7 +7,7 @@ Here are some sentences to introduce me:
 
 - 🔭 I’m currently studying at    ... Dongyang Mirae University🏫
 - 🌱 I’m currently learning       ... React.js, JavaScript, and Python ... etc💦
-- 👯 I’m participating in         ... My graduation work, SHELF-ER📕
+- 👯 I’m participating in         ... My graduation work, [SHELF-ER📕](https://walnut-flyaway-f2b.notion.site/SHELF-ER-efe7fa28a57244c2a5e02852110ba9e4)
 - 🤔 I’m looking for help with    ... React.js💙
 - 💬 Ask me about                 ... All but Development knowledge😥
 - ⚡ Fun fact:                    ... I'm just a talking potato🥔
