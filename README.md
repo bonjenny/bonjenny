@@ -49,6 +49,7 @@ Here are some sentences to introduce me:
 - 💚 React.js with Spring Boot: https://www.notion.so/aeb483fa9c26452a84ca5e180d656466?v=35c221656a35480baea8cb0a0d06c5e3
 - 💜 JavaScript TIL: https://walnut-flyaway-f2b.notion.site/6dbb574c6ee5494db1b65b628e8238f8?v=dd898ad18c024c9badf5551ad218c529
 - ♐ Github Commands: https://walnut-flyaway-f2b.notion.site/Github-Commands-e533b12c728a4719938718ad714cd09f
+- ❎ Excel Study: https://walnut-flyaway-f2b.notion.site/4dc079d77e5f4efcadf565bf0781c417?v=e7a1842b2c314aa4a15b09d623c2cd01
 
 ### Past Record
 
