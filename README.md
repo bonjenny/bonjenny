@@ -54,4 +54,5 @@ Here are some sentences to introduce me:
 ### Past Record
 
 - 🎈 OIDC: https://pitch-dosa-b53.notion.site/4-52e45018e9884148a30dc1bba7e65b59
+- 🎈 OIDC Development Plan: https://pitch-dosa-b53.notion.site/PPT-0f78df0c0c4b463ab1816ce0ad8a895a
 - 🧨 So what's an OIDC: https://www.oidc.co.kr/home
