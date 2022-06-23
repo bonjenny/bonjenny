@@ -6,7 +6,7 @@ My name is **Jihee Eom** and I am a college student who dreams of being a ✨ _f
 Here are some sentences to introduce me:
 
 - 🔭 I’m currently studying at    ... Dongyang Mirae University🏫
-- 🌱 I’m currently learning       ... React.js, JavaScript, and Python ... etc💦
+- 🌱 I’m currently learning       ... [React.js, TypeScript, and Redux](https://walnut-flyaway-f2b.notion.site/56883f5c15654e3d95508de300692c48?v=251da626595e4cfab7947056f98a66ee) ... etc💦
 - 👯 I’m participating in         ... My graduation work, [SHELF-ER📕](https://walnut-flyaway-f2b.notion.site/SHELF-ER-efe7fa28a57244c2a5e02852110ba9e4)
 - 🤔 I’m looking for help with    ... React.js💙
 - 💬 Ask me about                 ... All but Development knowledge😥
@@ -40,12 +40,13 @@ Here are some sentences to introduce me:
 ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=ffffff)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://walnut-flyaway-f2b.notion.site/Github-Commands-e533b12c728a4719938718ad714cd09f)
 [![Jupyter Notebook](https://img.shields.io/badge/-jupyter-eeeeee?style=for-the-badge&logo=jupyter&logoColor=e37100)](https://youtu.be/dCKu4ieMM5g)
-<!-- ![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=ffffff) -->
+[![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://github.com/bonjenny/2022-2TypeScript)
 
 ### How to reach my Blog
 
 - 😎 If you want to know my profile: https://programmers.co.kr/pr/bonjenny1_4385
 - 💙 React.js TIL: https://walnut-flyaway-f2b.notion.site/394fa67983cd4900bafbbf3edca35324?v=c46fdcfc26f7403cae358a74aa694520
+- 💎 React.js with TypeScript: https://walnut-flyaway-f2b.notion.site/56883f5c15654e3d95508de300692c48?v=251da626595e4cfab7947056f98a66ee
 - 💚 React.js with Spring Boot: https://www.notion.so/aeb483fa9c26452a84ca5e180d656466?v=35c221656a35480baea8cb0a0d06c5e3
 - 💜 JavaScript TIL: https://walnut-flyaway-f2b.notion.site/6dbb574c6ee5494db1b65b628e8238f8?v=dd898ad18c024c9badf5551ad218c529
 - ♐ Github Commands: https://walnut-flyaway-f2b.notion.site/Github-Commands-e533b12c728a4719938718ad714cd09f
