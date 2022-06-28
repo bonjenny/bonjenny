@@ -6,7 +6,7 @@ My name is **Jihee Eom** and I am a college student who dreams of being a ✨ _f
 Here are some sentences to introduce me:
 
 - 🔭 I’m currently studying at    ... Dongyang Mirae University🏫
-- 🌱 I’m currently learning       ... [React.js, TypeScript, and Redux](https://walnut-flyaway-f2b.notion.site/56883f5c15654e3d95508de300692c48?v=251da626595e4cfab7947056f98a66ee) ... etc💦
+- 🌱 I’m currently learning       ... [React.js, TypeScript, Redux](https://walnut-flyaway-f2b.notion.site/56883f5c15654e3d95508de300692c48?v=251da626595e4cfab7947056f98a66ee) and [JavaScript](https://walnut-flyaway-f2b.notion.site/2-8270c0dfeff341edae0a4f9cb55d4e4a) ... etc💦
 - 👯 I’m participating in         ... My graduation work, [SHELF-ER📕](https://walnut-flyaway-f2b.notion.site/SHELF-ER-efe7fa28a57244c2a5e02852110ba9e4)
 - 🤔 I’m looking for help with    ... React.js💙
 - 💬 Ask me about                 ... All but Development knowledge😥
