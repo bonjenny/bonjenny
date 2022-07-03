@@ -10,7 +10,7 @@ Here are some sentences to introduce me:
 - 👯 I’m participating in         ... My graduation work, [SHELF-ER📕](https://walnut-flyaway-f2b.notion.site/SHELF-ER-efe7fa28a57244c2a5e02852110ba9e4)
 - 🤔 I’m looking for help with    ... React.js💙
 - 💬 Ask me about                 ... All but Development knowledge😥
-- ⚡ Fun fact:                    ... I'm just a talking potato🥔 to be a carrot🥕
+- ⚡ Fun fact:                    ... I'm just a talking potato🥔
 - 📫 How to reach me:             ... bonjenny@naver.com(Faster!💨) or bonjenny1@gmail.com
 
 <!-- ![Jihee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonjenny&theme=buefy&show_icons=true) -->
