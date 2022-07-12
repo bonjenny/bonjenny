@@ -26,7 +26,7 @@ Here are some sentences to introduce me:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2022-1React.js)](https://github.com/bonjenny/2022-1React.js)
 -->
 
-### Teck stack I'm working on (Some icons are connected with other pages)
+### Teck stack I'm working on (Icons below are connected with other pages)
 [![HTML5](https://img.shields.io/badge/-HTML5-d13a11?style=for-the-badge&logo=html5&logoColor=ffffff)](https://bonjenny.github.io/2020-1JS/hw04/hw04.html)
 [![CSS3](https://img.shields.io/badge/-CSS3-007acc?style=for-the-badge&logo=css3)](https://bonjenny.github.io/2021-1movieIntroduce)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23f7df1c?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23f7df1c&color=%23ffce5a)](https://bonjenny.github.io/2020-2JS/week15/main.html)
@@ -38,7 +38,7 @@ Here are some sentences to introduce me:
 [![JSP](https://img.shields.io/badge/-JSP-%23f7df1c?style=for-the-badge&logo=java&logoColor=ff0000&labelColor=%2381b7ccc&color=%2381b7cc)](https://github.com/bonjenny/2021-2JSP)
 [![Python](https://img.shields.io/badge/-Python-21649c?style=for-the-badge&logo=python&logoColor=ffdb12)](https://youtu.be/t6sMJ7zGdKE)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=ffffff)](https://walnut-flyaway-f2b.notion.site/a1890a524f384ff4852862d2cc7d51dc?v=67bc5fa401b14cc6ba87bdf57ec21e53)
-![MySQL](https://img.shields.io/badge/-mysql-487aa1?style=for-the-badge&logo=mysql&logoColor=ffffff)
+[![MySQL](https://img.shields.io/badge/-mysql-487aa1?style=for-the-badge&logo=mysql&logoColor=ffffff)](https://walnut-flyaway-f2b.notion.site/MySQL-HW3-23b7a45678b9454e974092fed515cde6)
 [![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=ffffff)](https://walnut-flyaway-f2b.notion.site/7-Node-js-Express-e5ec3716cc28405f98f7ffebc3cf5b64)
 [![Jupyter Notebook](https://img.shields.io/badge/-jupyter-eeeeee?style=for-the-badge&logo=jupyter&logoColor=e37100)](https://youtu.be/dCKu4ieMM5g)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://walnut-flyaway-f2b.notion.site/Github-Commands-e533b12c728a4719938718ad714cd09f)
