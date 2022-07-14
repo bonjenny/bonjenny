@@ -13,7 +13,7 @@ Here are some sentences to introduce me:
 - ⚡ Fun fact:                    ... I'm just a talking potato🥔
 - 📫 How to reach me:             ... bonjenny@naver.com(Faster!💨) or bonjenny1@gmail.com
 
-<![Jihee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonjenny&theme=buefy&show_icons=true)
+![Jihee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonjenny&theme=buefy&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bonjenny)](https://solved.ac/bonjenny)
 ![Jihee's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonjenny&theme=material-palenight&layout=compact)
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fec7373b-626b-4300-8906-9daabce0efd3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
