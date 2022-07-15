@@ -16,7 +16,7 @@ Here are some sentences to introduce me:
 ![Jihee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonjenny&theme=buefy&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bonjenny)](https://solved.ac/bonjenny)
 ![Jihee's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonjenny&theme=material-palenight&layout=compact)
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="fec7373b-626b-4300-8906-9daabce0efd3" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![AWS Practitioner Badge](./badge.png)](https://www.credly.com/badges/fec7373b-626b-4300-8906-9daabce0efd3/public_url)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2020-1JS)](https://github.com/bonjenny/2020-1JS)
