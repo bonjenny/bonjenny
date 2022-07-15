@@ -20,9 +20,9 @@ Here are some sentences to introduce me:
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2020-1JS)](https://github.com/bonjenny/2020-1JS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parkjg20&repo=movieIntroduce)](https://github.com/parkjg20/movieIntroduce/) \
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parkjg20&repo=movieIntroduce)](https://github.com/parkjg20/movieIntroduce/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2021-2JSP)](https://github.com/bonjenny/2021-2JSP)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHELF-ER&repo=front-end)](https://github.com/SHELF-ER/front-end) \
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHELF-ER&repo=front-end)](https://github.com/SHELF-ER/front-end)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2022-1CodingTest)](https://github.com/bonjenny/2022-1CodingTest)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2022-1React.js)](https://github.com/bonjenny/2022-1React.js)
 -->
@@ -44,6 +44,7 @@ Here are some sentences to introduce me:
 [![Jupyter Notebook](https://img.shields.io/badge/-jupyter-eeeeee?style=for-the-badge&logo=jupyter&logoColor=e37100)](https://youtu.be/dCKu4ieMM5g)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://walnut-flyaway-f2b.notion.site/Github-Commands-e533b12c728a4719938718ad714cd09f)
 [![Redux](https://img.shields.io/badge/-Redux-7f38c7?style=for-the-badge&logo=redux&logoColor=ffffff)](https://walnut-flyaway-f2b.notion.site/56883f5c15654e3d95508de300692c48?v=251da626595e4cfab7947056f98a66ee)
+![Trophy](https://github-profile-trophy.vercel.app/?username=bonjenny&theme=material-flat&column=8)
 
 ### How to reach my Blog
 
