@@ -12,6 +12,7 @@ Here are some sentences to introduce me:
 - 💬 Ask me about                 ... All but Development knowledge😥
 - ⚡ Fun fact:                    ... I'm just a talking potato🥔
 - 📫 How to reach me:             ... bonjenny@naver.com(Faster!💨) or bonjenny1@gmail.com
+- 😎 If you want to know my profile: https://programmers.co.kr/pr/bonjenny1_4385
 
 ![Jihee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonjenny&theme=material-palenight&show_icons=true)
 [<img src="./badge.png" alt="AWS Practitioner Certification Badge" width="200" height="200">](https://www.credly.com/badges/fec7373b-626b-4300-8906-9daabce0efd3/public_url) \
@@ -48,7 +49,6 @@ Here are some sentences to introduce me:
 
 ### How to reach my Blog
 
-- 😎 If you want to know my profile: https://programmers.co.kr/pr/bonjenny1_4385
 - 💙 React.js TIL: https://walnut-flyaway-f2b.notion.site/394fa67983cd4900bafbbf3edca35324?v=c46fdcfc26f7403cae358a74aa694520
 - 💎 React.js with TypeScript: https://walnut-flyaway-f2b.notion.site/56883f5c15654e3d95508de300692c48?v=251da626595e4cfab7947056f98a66ee
 - 💚 React.js with Spring Boot: https://www.notion.so/aeb483fa9c26452a84ca5e180d656466?v=35c221656a35480baea8cb0a0d06c5e3
