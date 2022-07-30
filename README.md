@@ -19,15 +19,6 @@ Here are some sentences to introduce me:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bonjenny)](https://solved.ac/bonjenny)
 ![Jihee's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonjenny&theme=material-palenight&layout=compact)
 
-<!--
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2020-1JS)](https://github.com/bonjenny/2020-1JS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parkjg20&repo=movieIntroduce)](https://github.com/parkjg20/movieIntroduce/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2021-2JSP)](https://github.com/bonjenny/2021-2JSP)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SHELF-ER&repo=front-end)](https://github.com/SHELF-ER/front-end)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2022-1CodingTest)](https://github.com/bonjenny/2022-1CodingTest)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2022-1React.js)](https://github.com/bonjenny/2022-1React.js)
--->
-
 ### Teck stack I'm working on (Icons below are connected with other pages)
 [![HTML5](https://img.shields.io/badge/-HTML5-d13a11?style=for-the-badge&logo=html5&logoColor=ffffff)](https://bonjenny.github.io/2020-1JS/hw04/hw04.html)
 [![CSS3](https://img.shields.io/badge/-CSS3-007acc?style=for-the-badge&logo=css3)](https://bonjenny.github.io/2021-1movieIntroduce)
@@ -61,3 +52,16 @@ Here are some sentences to introduce me:
 - 🎈 OIDC: https://pitch-dosa-b53.notion.site/4-52e45018e9884148a30dc1bba7e65b59
 - 🎈 OIDC Development Plan PPT: https://pitch-dosa-b53.notion.site/PPT-0f78df0c0c4b463ab1816ce0ad8a895a
 - 🧨 So what's an OIDC: https://www.oidc.co.kr/home
+
+### Readme Card
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2020-2JS)](https://github.com/bonjenny/2020-2JS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2021-1Arduino)](https://github.com/bonjenny/2021-1Arduino)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2021-1movieIntroduce)](https://github.com/bonjenny/2021-1movieIntroduce)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2021-1Py)](https://github.com/bonjenny/2021-1Py)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2021-1VueBoard)](https://github.com/bonjenny/2021-1VueBoard)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2021-2Android)](https://github.com/bonjenny/2021-2Android)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2021-2C)](https://github.com/bonjenny/2021-2C)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2021-2JSP)](https://github.com/bonjenny/2021-2JSP)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2021-2Jupyter)](https://github.com/bonjenny/2021-2Jupyter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2022-1Raspberry)](https://github.com/bonjenny/2022-1Raspberry)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2022-1Unity)](https://github.com/bonjenny/2022-1Unity)
