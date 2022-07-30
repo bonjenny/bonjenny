@@ -55,8 +55,4 @@ Here are some sentences to introduce me:
 
 ### Readme Card
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2021-1Arduino)](https://github.com/bonjenny/2021-1Arduino)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2021-1Py)](https://github.com/bonjenny/2021-1Py)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2021-2Android)](https://github.com/bonjenny/2021-2Android)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2021-2C)](https://github.com/bonjenny/2021-2C)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2021-2JSP)](https://github.com/bonjenny/2021-2JSP)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2022-1Unity)](https://github.com/bonjenny/2022-1Unity)
