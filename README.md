@@ -35,7 +35,7 @@ Here are some sentences to introduce me:
 [![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=ffffff)](https://walnut-flyaway-f2b.notion.site/7-Node-js-Express-e5ec3716cc28405f98f7ffebc3cf5b64)
 [![Jupyter Notebook](https://img.shields.io/badge/-jupyter-eeeeee?style=for-the-badge&logo=jupyter&logoColor=e37100)](https://youtu.be/dCKu4ieMM5g)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://walnut-flyaway-f2b.notion.site/Github-Commands-e533b12c728a4719938718ad714cd09f)
-<!--[![Redux](https://img.shields.io/badge/-Redux-7f38c7?style=for-the-badge&logo=redux&logoColor=ffffff)](https://walnut-flyaway-f2b.notion.site/56883f5c15654e3d95508de300692c48?v=251da626595e4cfab7947056f98a66ee)-->
+[![Redux](https://img.shields.io/badge/-Redux-7f38c7?style=for-the-badge&logo=redux&logoColor=ffffff)](https://walnut-flyaway-f2b.notion.site/56883f5c15654e3d95508de300692c48?v=251da626595e4cfab7947056f98a66ee)
 <!--![Trophy](https://github-profile-trophy.vercel.app/?username=bonjenny&theme=material-flat&column=8)-->
 
 ### How to reach my Blog
