@@ -14,10 +14,12 @@ Here are some sentences to introduce me:
 - ⚡ Fun fact                     ... I'm just a talking potato🥔
 - 📫 How to reach me              ... bonjenny@naver.com(Faster!💨) or bonjenny1@gmail.com
 
-<!--![Jihee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonjenny&theme=material-palenight&show_icons=true)-->
+<!--
+![Jihee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonjenny&theme=material-palenight&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bonjenny)](https://solved.ac/bonjenny)
 [<img src="./badge.png" alt="AWS Practitioner Certification Badge" width="200" height="200">](https://www.credly.com/badges/fec7373b-626b-4300-8906-9daabce0efd3/public_url)
-<!--![Jihee's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonjenny&theme=material-palenight&layout=compact)-->
+![Jihee's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonjenny&theme=material-palenight&layout=compact)
+-->
 
 ### Teck stack I'm working on (Icons below are connected with other pages)
 [![HTML5](https://img.shields.io/badge/-HTML5-d13a11?style=for-the-badge&logo=html5&logoColor=ffffff)](https://bonjenny.github.io/2020-1JS/hw04/hw04.html)
