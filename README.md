@@ -24,7 +24,7 @@ Here are some sentences to introduce me:
 ### Teck stack I'm working on (Icons below are connected with other pages)
 [![HTML5](https://img.shields.io/badge/-HTML5-d13a11?style=for-the-badge&logo=html5&logoColor=ffffff)](https://bonjenny.github.io/2020-1JS/hw04/hw04.html)
 [![CSS3](https://img.shields.io/badge/-CSS3-007acc?style=for-the-badge&logo=css3)](https://bonjenny.github.io/2021-1movieIntroduce)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-%23f7df1c?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23f7df1c&color=%23ffce5a)](https://bonjenny.github.io/2020-2JS/week15/main.html)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23f7df1c?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23f7df1c&color=%23ffce5a)](https://walnut-flyaway-f2b.notion.site/2-8270c0dfeff341edae0a4f9cb55d4e4a)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-3fba79?style=for-the-badge&logo=vue.js&logoColor=ffffff)](https://bonjenny.github.io/2021-1Vue.js)
 [![React.js](https://img.shields.io/badge/-React.js-59d8ff?style=for-the-badge&logo=react&logoColor=000000)](https://github.com/bonjenny/2022-1React.js)
 [![TypeScript](https://img.shields.io/badge/-Typescript-3d7ed4?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://github.com/bonjenny/2022-2TypeScript)
@@ -37,7 +37,7 @@ Here are some sentences to introduce me:
 [![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=ffffff)](https://walnut-flyaway-f2b.notion.site/7-Node-js-Express-e5ec3716cc28405f98f7ffebc3cf5b64)
 [![Jupyter Notebook](https://img.shields.io/badge/-jupyter-eeeeee?style=for-the-badge&logo=jupyter&logoColor=e37100)](https://youtu.be/dCKu4ieMM5g)
 [![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://walnut-flyaway-f2b.notion.site/Github-Commands-e533b12c728a4719938718ad714cd09f)
-[![Redux](https://img.shields.io/badge/-Redux-7f38c7?style=for-the-badge&logo=redux&logoColor=ffffff)](https://walnut-flyaway-f2b.notion.site/56883f5c15654e3d95508de300692c48?v=251da626595e4cfab7947056f98a66ee)
+<!--[![Redux](https://img.shields.io/badge/-Redux-7f38c7?style=for-the-badge&logo=redux&logoColor=ffffff)](https://walnut-flyaway-f2b.notion.site/56883f5c15654e3d95508de300692c48?v=251da626595e4cfab7947056f98a66ee)-->
 <!--![Trophy](https://github-profile-trophy.vercel.app/?username=bonjenny&theme=material-flat&column=8)-->
 
 ### How to reach my Blog
