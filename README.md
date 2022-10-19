@@ -30,11 +30,11 @@ Here are some sentences to introduce me:
 [![TypeScript](https://img.shields.io/badge/-Typescript-3d7ed4?style=for-the-badge&logo=typescript&logoColor=ffffff)](https://github.com/bonjenny/2022-2TypeScript)
 [![Unity](https://img.shields.io/badge/-unity-222222?style=for-the-badge&logo=unity&logoColor=ffffff)](https://youtu.be/M3t9VY1HOIk) \
 [![Git](https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&logoColor=ffffff)](https://walnut-flyaway-f2b.notion.site/Github-Commands-e533b12c728a4719938718ad714cd09f)
-![Spring](https://img.shields.io/badge/-SPRING-81c938?style=for-the-badge&logo=spring&logoColor=white)
 [![Python](https://img.shields.io/badge/-Python-21649c?style=for-the-badge&logo=python&logoColor=ffdb12)](https://youtu.be/t6sMJ7zGdKE)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=ffffff)](https://www.credly.com/badges/fec7373b-626b-4300-8906-9daabce0efd3/public_url)
 [![MySQL](https://img.shields.io/badge/-mysql-487aa1?style=for-the-badge&logo=mysql&logoColor=ffffff)](https://walnut-flyaway-f2b.notion.site/MySQL-HW3-23b7a45678b9454e974092fed515cde6)
 [![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=ffffff)](https://walnut-flyaway-f2b.notion.site/7-Node-js-Express-e5ec3716cc28405f98f7ffebc3cf5b64)
+![Spring](https://img.shields.io/badge/-SPRING-81c938?style=for-the-badge&logo=spring&logoColor=white)
 [![Jupyter Notebook](https://img.shields.io/badge/-jupyter-eeeeee?style=for-the-badge&logo=jupyter&logoColor=e37100)](https://youtu.be/dCKu4ieMM5g)
 [![Redux](https://img.shields.io/badge/-Redux-7f38c7?style=for-the-badge&logo=redux&logoColor=ffffff)](https://walnut-flyaway-f2b.notion.site/56883f5c15654e3d95508de300692c48?v=251da626595e4cfab7947056f98a66ee)
 <!--![Trophy](https://github-profile-trophy.vercel.app/?username=bonjenny&theme=material-flat&column=8)-->
