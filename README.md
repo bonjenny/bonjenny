@@ -14,12 +14,10 @@ Here are some sentences to introduce me:
 - ⚡ Fun fact                     ... I'm just a talking potato🥔
 - 📫 How to reach me              ... bonjenny@naver.com(Faster!💨) or bonjenny1@gmail.com
 
-<!--
 ![Jihee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonjenny&theme=material-palenight&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bonjenny)](https://solved.ac/bonjenny)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bonjenny)](https://solved.ac/bonjenny) -->
 [<img src="./badge.png" alt="AWS Practitioner Certification Badge" width="200" height="200">](https://www.credly.com/badges/fec7373b-626b-4300-8906-9daabce0efd3/public_url)
-![Jihee's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonjenny&theme=material-palenight&layout=compact)
--->
+<!-- ![Jihee's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonjenny&theme=material-palenight&layout=compact) -->
 
 ### Teck stack I'm working on (Icons below are connected with other pages)
 [![HTML5](https://img.shields.io/badge/-HTML5-b30000?style=for-the-badge&logo=html5&logoColor=ffffff)](https://bonjenny.github.io/2020-1JS/hw04/hw04.html)
@@ -54,6 +52,6 @@ Here are some sentences to introduce me:
 - 🎈 OIDC Development Plan PPT: https://pitch-dosa-b53.notion.site/PPT-0f78df0c0c4b463ab1816ce0ad8a895a
 - 🧨 So what's an OIDC: https://www.oidc.co.kr/home
 
-<!--### Readme Card
+### Readme Card
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2021-1Arduino)](https://github.com/bonjenny/2021-1Arduino)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2021-2Android)](https://github.com/bonjenny/2021-2Android)-->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=bonjenny&repo=2021-2Android)](https://github.com/bonjenny/2021-2Android)
