@@ -27,24 +27,24 @@ Here are some sentences to introduce me:
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=ffffff)](https://www.credly.com/badges/fec7373b-626b-4300-8906-9daabce0efd3/public_url)
 [![MySQL](https://img.shields.io/badge/-mysql-487aa1?style=for-the-badge&logo=mysql&logoColor=ffffff)](https://bonjenny.notion.site/MySQL-HW3-23b7a45678b9454e974092fed515cde6)
 [![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=ffffff)](https://bonjenny.notion.site/7-Node-js-Express-e5ec3716cc28405f98f7ffebc3cf5b64)
-![Spring](https://img.shields.io/badge/-SPRING-81c938?style=for-the-badge&logo=spring&logoColor=white)
+[![Spring](https://img.shields.io/badge/-SPRING-81c938?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/bonjenny/2021-2JSP)
 [![Jupyter Notebook](https://img.shields.io/badge/-jupyter-eeeeee?style=for-the-badge&logo=jupyter&logoColor=e37100)](https://youtu.be/dCKu4ieMM5g)
 [![Redux](https://img.shields.io/badge/-Redux-7f38c7?style=for-the-badge&logo=redux&logoColor=ffffff)](https://bonjenny.notion.site/56883f5c15654e3d95508de300692c48?v=251da626595e4cfab7947056f98a66ee)
 <!--![Trophy](https://github-profile-trophy.vercel.app/?username=bonjenny&theme=material-flat&column=8)-->
 
-![Jihee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonjenny&theme=material-palenight&show_icons=true)
+<!-- ![Jihee's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonjenny&theme=material-palenight&show_icons=true) -->
 [<img src="./badge.png" alt="AWS Practitioner Certification Badge" width="200" height="200">](https://www.credly.com/badges/fec7373b-626b-4300-8906-9daabce0efd3/public_url)
-<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bonjenny)](https://solved.ac/bonjenny) -->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bonjenny)](https://solved.ac/bonjenny)
 <!-- ![Jihee's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bonjenny&theme=material-palenight&layout=compact) -->
 
 ### How to reach my Blog
 
-- 💙 React.js TIL: https://walnut-flyaway-f2b.notion.site/394fa67983cd4900bafbbf3edca35324?v=c46fdcfc26f7403cae358a74aa694520
-- 💎 React.js with TypeScript: https://walnut-flyaway-f2b.notion.site/56883f5c15654e3d95508de300692c48?v=251da626595e4cfab7947056f98a66ee
-- 💚 React.js with Spring Boot: https://www.notion.so/aeb483fa9c26452a84ca5e180d656466?v=35c221656a35480baea8cb0a0d06c5e3
-- 💜 JavaScript TIL: https://walnut-flyaway-f2b.notion.site/6dbb574c6ee5494db1b65b628e8238f8?v=dd898ad18c024c9badf5551ad218c529
-- ♐ Github Commands: https://walnut-flyaway-f2b.notion.site/Github-Commands-e533b12c728a4719938718ad714cd09f
-- ❎ Excel Study: https://walnut-flyaway-f2b.notion.site/4dc079d77e5f4efcadf565bf0781c417?v=e7a1842b2c314aa4a15b09d623c2cd01
+- 💙 React.js TIL: https://bonjenny.notion.site/394fa67983cd4900bafbbf3edca35324?v=c46fdcfc26f7403cae358a74aa694520
+- 💎 React.js with TypeScript: https://bonjenny.notion.site/56883f5c15654e3d95508de300692c48?v=251da626595e4cfab7947056f98a66ee
+- 💚 React.js with Spring Boot: https://bonjenny.notion.site/aeb483fa9c26452a84ca5e180d656466?v=35c221656a35480baea8cb0a0d06c5e3
+- 💜 JavaScript TIL: https://bonjenny.notion.site/2-Next-Gen-JS-8270c0dfeff341edae0a4f9cb55d4e4a
+- ♐ Github Commands: https://bonjenny.notion.site/Github-Commands-e533b12c728a4719938718ad714cd09f
+- ❎ Excel Study: https://bonjenny.notion.site/4dc079d77e5f4efcadf565bf0781c417?v=e7a1842b2c314aa4a15b09d623c2cd01
 
 ### Past Record
 
