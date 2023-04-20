@@ -1,5 +1,3 @@
-"배우고, 기록하고, 도전하자!"라는 좌우명을 가진 엄지희는 햇살 좋은 날에 강변을 산책하는 것을 좋아합니다. 전 세계를 여행하며 세계의 모든 디저트를 먹어보는 게 꿈이에요! 
-
 # Hi there! Nice to meet ya 👋
 
 My name is **Jihee Eom** and I am a college student who dreams of being a ✨ _front-end developer_ ✨ \
