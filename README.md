@@ -1,3 +1,5 @@
+![Intro](intro.gif)
+
 # Hi there! Nice to meet ya 👋
 
 My name is **Jihee Eom** and I am a college student who dreams of being a ✨ _front-end developer_ ✨ \
