@@ -1,4 +1,4 @@
-![Intro](intro.gif)
+<!--![Intro](intro.gif)-->
 
 # Hi there! Nice to meet ya 👋
 
