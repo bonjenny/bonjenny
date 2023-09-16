@@ -2,7 +2,7 @@
 
 # Hi there! Nice to meet ya 👋
 
-My name is **Jihee Eom** and I am a college student who dreams of being a ✨ _front-end developer_ ✨ \
+My name is **Jihee Eom** and I am a ✨ _Typescript developer_ ✨ \
 Here are some sentences to introduce me:
 
 - 😎 If you want to know my blog  ... [티스토리 블로그](https://bonjenny.tistory.com/)
