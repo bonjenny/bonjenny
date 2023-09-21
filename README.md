@@ -1,5 +1,4 @@
 <!--![Intro](intro.gif)-->
-
 # Hi there! Nice to meet ya 👋
 
 My name is **Jihee Eom** and I am a ✨ _Typescript developer_ ✨ \
