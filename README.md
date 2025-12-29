@@ -1,7 +1,7 @@
 <!--![Intro](intro.gif)-->
 # Hi there! Nice to meet ya 👋
 
-My name is **Jihee Eom** and I am a ✨ _Typescript developer_ ✨ \
+My name is **Jihee Eom** and I am a ✨ _Front-end developer_ ✨ \
 Here are some sentences to introduce me:
 
 - 😎 If you want to know my blog  ... [티스토리 블로그](https://bonjenny.tistory.com/)
